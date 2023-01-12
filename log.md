@@ -32,7 +32,7 @@
 
 ### Day 1: February 13, Friday
 
-**Today's Progress**: I've dedicated this day with learning GitHub so I can fork #100DaysOfCode Repository
+**Today's Progress**: I've dedicated this day with learning GitHub so I can fork [#100DaysOfCode](https://github.com/kallaway/100-days-of-code) Repository
 
 **Thoughts**: I wanted to learn GitHub first so that I can fork the #100DaysOfCode repo and log my daily progress there, so I did. GitHub Minesweeper is really good! Learned alot from it.
 
