@@ -37,4 +37,4 @@
 **Thoughts**: I wanted to learn GitHub first so that I can fork the #100DaysOfCode repo and log my daily progress there, so I did. GitHub Minesweeper is really good! Learned alot from it.
 
 **Link(s) to work**
-[Day 1 Resources](/resources/Day%201/)
+[Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
