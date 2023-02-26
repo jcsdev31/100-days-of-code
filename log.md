@@ -47,3 +47,12 @@
 
 **Link(s) to work**
 [Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
+
+### Day 3: February 25, Friday
+
+**Today's Progress**: I finished the part 1 of JavaScript Fundamentals from Alchemy University! 2 more to go.
+
+**Thoughts**: Alchemy University is a very good site to learn! Today it thought me String Manipulation, Arrays, Objects, Classes, Type Conversions. etc.. At the end of the part 1 it also brushed up on Binary and Hexadecimal topics so for my personal practice, I made a binary <=> hexadecimal converter. See code in my codepen or github
+
+**Link(s) to work**
+[Day 2 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%202)
