@@ -30,7 +30,7 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 0: February 13, Friday
+### Day 0: January 13, Friday
 
 **Today's Progress**: I've dedicated this day with learning GitHub so I can fork [#100DaysOfCode](https://github.com/kallaway/100-days-of-code) Repository
 
