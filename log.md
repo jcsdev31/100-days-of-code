@@ -46,4 +46,4 @@
 **Thoughts**: I'm taking the Web3 route so my first goal is to finish the 3 courses from @AlchemyLearn's Alchemy University. I started with the JavaScript Fundamentals to brush up on my knowledge because I haven't touched a code in 3 years.
 
 **Link(s) to work**
-[Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%01)
+[Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
