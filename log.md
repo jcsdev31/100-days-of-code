@@ -30,11 +30,20 @@
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 -->
 
-### Day 1: February 13, Friday
+### Day 0: February 13, Friday
 
 **Today's Progress**: I've dedicated this day with learning GitHub so I can fork [#100DaysOfCode](https://github.com/kallaway/100-days-of-code) Repository
 
 **Thoughts**: I wanted to learn GitHub first so that I can fork the #100DaysOfCode repo and log my daily progress there, so I did. GitHub Minesweeper is really good! Learned alot from it.
+
+**Link(s) to work**
+[Day 0 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%202)
+
+### Day 1: February 24, Friday
+
+**Today's Progress**: I've been busy with IRL problems and stuff but I finally got the time to start this challenge!
+
+**Thoughts**: I'm taking the Web3 route so my first goal is to finish the 3 courses from @AlchemyLearn's Alchemy University. I started with the JavaScript Fundamentals to brush up on my knowledge because I haven't touched a code in 3 years.
 
 **Link(s) to work**
 [Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
