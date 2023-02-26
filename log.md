@@ -37,7 +37,7 @@
 **Thoughts**: I wanted to learn GitHub first so that I can fork the #100DaysOfCode repo and log my daily progress there, so I did. GitHub Minesweeper is really good! Learned alot from it.
 
 **Link(s) to work**
-[Day 0 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
+[Day 0 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%200)
 
 ### Day 1: February 24, Friday
 
@@ -46,4 +46,4 @@
 **Thoughts**: I'm taking the Web3 route so my first goal is to finish the 3 courses from @AlchemyLearn's Alchemy University. I started with the JavaScript Fundamentals to brush up on my knowledge because I haven't touched a code in 3 years.
 
 **Link(s) to work**
-[Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%202)
+[Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%01)
