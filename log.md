@@ -48,7 +48,7 @@
 **Link(s) to work**
 [Day 1 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%201)
 
-### Day 3: February 25, Friday
+### Day 2: February 25, Friday
 
 **Today's Progress**: I finished the part 1 of JavaScript Fundamentals from Alchemy University! 2 more to go.
 
@@ -56,3 +56,12 @@
 
 **Link(s) to work**
 [Day 2 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%202)
+
+### Day 3-12: March 9, Thursday
+
+**Today's Progress**: I finished the whole JavaScript section of Alchemy University.
+
+**Thoughts**: I wasn't able to tweet everyday but I was coding for around 1 hour per day. I finished the whole JavaScript section of Alchemy University and it is definitely not for complete beginners. The topics seems a bit rushed and condensed into very tiny lessons which doesn't teach you enough to complete the tasks given, specially on the 3rd part of the course as it is dealing with complex topics. I hope they would add more material to it and probably videos for clearer explanation. I assume this is how it is because they focused a lot more on the next course which is Solidity. We'll see.
+
+**Link(s) to work**
+[Day 2 Resources](https://github.com/jcsdev31/100-days-of-code-resources/tree/main/Day%203-12)
